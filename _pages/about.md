@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My personal blog to share my own ideas of software development.
+title: Who is Manoel and what he does?
 permalink: /about
 comments: false
 ---

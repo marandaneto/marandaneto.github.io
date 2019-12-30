@@ -14,8 +14,8 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Manoel Aranda Neto
-    display_name: marandaneto
+    name: marandaneto
+    display_name: Manoel Aranda Neto
     gravatar: 2c153c3d25780832605cff7803a17e3a
     email: marandaneto@gmail.com
     web: https://marandaneto.github.io
