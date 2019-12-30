@@ -5,6 +5,7 @@ description: "My personal blog to share my own ideas of software development."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
+disqus: 'marandaneto'
 include: ["_pages"]
 permalink: /:title/
 
